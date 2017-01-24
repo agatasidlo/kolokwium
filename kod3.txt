@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*Wczytanie macierzy z pliku*/
+/*Wczytanie macierzy z dowolnego pliku*/
 
 int flag=0;
 
